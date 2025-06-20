@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc78b6238bc48fe7",
+            "id": "c56f3edf4891a9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "posts"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd07ef6cc09374d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c982c360be8e187",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -183,7 +167,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc78b6238bc48fe7",
+  "active": "c56f3edf4891a9ea",
   "lastOpenFiles": [
     "Untitled.md",
     "posts.md",
