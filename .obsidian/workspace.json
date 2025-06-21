@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2025.06.21.md",
+                "file": "posts/2025.05.20.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025.06.21"
+              "title": "2025.05.20"
             }
           }
         ]
@@ -168,11 +168,11 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "f9bad5a20bd1d18c",
+  "active": "c56f3edf4891a9ea",
   "lastOpenFiles": [
     "posts",
     "posts.json.md",
-    "posts/2025.06.21.md",
+    "posts/2025.05.20.md",
     "posts.json",
     "posts.json - Copy.md",
     "Untitled.md",
