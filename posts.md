@@ -1,24 +1,25 @@
-
 ---
 date: 2025-06-20
 title: Morning Coffee Betrayal
 ---
-GRUMPY:
-Write your grumpy thoughts here.
+
+[GRUMPY]
+My coffee maker decided to give up on life at 6 AM. Not 10 AM when I could handle it. The betrayal stings!
 Use multiple lines if you want!
 Any characters are fine: "quotes", 'apostrophes', etc.
 
-OPTIMIST:
-Write your optimistic perspective here.
-Again, multiple lines are totally fine.
-No need to escape anything!
+[OPTIMIST]
+But this forced me to walk to that little café. The barista drew a smiley face in my latte foam. Sometimes the universe breaks your coffee maker to introduce you to something better.
 
 ---
 date: 2025-06-19
-title: Another Post Title
+title: The Rain Conspiracy
 ---
-GRUMPY:
-More grumpy content...
 
-OPTIMIST:
-More optimistic content...
+[GRUMPY]
+The weather app lied. It promised sunshine, so I left my umbrella at home like a fool.
+I can use colons here: see? No problem.
+
+[OPTIMIST]
+I ended up sharing an awning with a stranger who turned out to be hilarious!
+This is much safer.
