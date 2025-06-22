@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2025.06.12 - Post Winter Apology.md",
+                "file": "posts/2025.05.20 - The 2025 Microsoft Build Conference.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025.06.12 - Post Winter Apology"
+              "title": "2025.05.20 - The 2025 Microsoft Build Conference"
             }
           }
         ]
@@ -168,12 +168,12 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "f9bad5a20bd1d18c",
+  "active": "c56f3edf4891a9ea",
   "lastOpenFiles": [
-    "posts/2025.06.04.md",
-    "template.md",
-    "posts/2025.05.20.md",
+    "posts/2025.06.04 - Some people change, others hang on till they can't anymore.md",
     "posts/2025.06.12 - Post Winter Apology.md",
+    "template.md",
+    "posts/2025.05.20 - The 2025 Microsoft Build Conference.md",
     "posts/2025.05.20.png",
     "posts",
     "posts.json.md",
