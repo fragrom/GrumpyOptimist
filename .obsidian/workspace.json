@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template.md",
+                "file": "posts/2025.06.04.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "2025.06.04"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "c56f3edf4891a9ea",
   "lastOpenFiles": [
-    "posts/2025.05.20.md",
     "template.md",
+    "posts/2025.06.04.md",
+    "posts/2025.05.20.md",
     "posts/2025.06.12.md",
     "posts/2025.05.20.png",
-    "posts/Untitled.md",
     "posts",
     "posts.json.md",
     "posts.json",
