@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2025.06.04.md",
+                "file": "posts/2025.06.12 - Post Winter Apology.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025.06.04"
+              "title": "2025.06.12 - Post Winter Apology"
             }
           }
         ]
@@ -168,12 +168,12 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "c56f3edf4891a9ea",
+  "active": "f9bad5a20bd1d18c",
   "lastOpenFiles": [
-    "template.md",
     "posts/2025.06.04.md",
+    "template.md",
     "posts/2025.05.20.md",
-    "posts/2025.06.12.md",
+    "posts/2025.06.12 - Post Winter Apology.md",
     "posts/2025.05.20.png",
     "posts",
     "posts.json.md",
