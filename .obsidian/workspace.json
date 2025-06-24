@@ -1,24 +1,36 @@
 {
   "main": {
-    "id": "2edbd3e0623debd1",
+    "id": "06ef0ddcd5682904",
     "type": "split",
     "children": [
       {
-        "id": "797d0a941cd90a8b",
+        "id": "66c2ab85cab3f7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "c56f3edf4891a9ea",
+            "id": "0bcfeab7952dc4c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2025.06.12 - Post Winter Apology.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025.06.12 - Post Winter Apology"
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "995c4f04fcfe273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43331d122435ddf6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +39,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67ada08faa72d7a2",
+    "id": "3a9a13738e10f1ea",
     "type": "split",
     "children": [
       {
-        "id": "1a5492b26ce4e741",
+        "id": "de4cdb24865c63ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f9bad5a20bd1d18c",
+            "id": "c84458d5afdccc8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +60,7 @@
             }
           },
           {
-            "id": "82a37e4b456effec",
+            "id": "a3d801c35ffcba20",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +77,7 @@
             }
           },
           {
-            "id": "a0d2c4d466ce1351",
+            "id": "9b80d849996ca6af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +93,15 @@
     "width": 300
   },
   "right": {
-    "id": "7bc6613a27f30bb5",
+    "id": "6b1094399071ba6e",
     "type": "split",
     "children": [
       {
-        "id": "f617d8159024248a",
+        "id": "56032c80a066751f",
         "type": "tabs",
         "children": [
           {
-            "id": "48772c26d9d0c7c2",
+            "id": "823d0a11ac8a46cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +119,7 @@
             }
           },
           {
-            "id": "9c912c5593323a77",
+            "id": "ae3c84ab126361f2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +132,7 @@
             }
           },
           {
-            "id": "df22109ab6597092",
+            "id": "760898f625eb0aa2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +147,7 @@
             }
           },
           {
-            "id": "bb5e0fd99b4da9d9",
+            "id": "be9ab17546d1de55",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,23 +176,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c56f3edf4891a9ea",
+  "active": "c84458d5afdccc8e",
   "lastOpenFiles": [
     "template.md",
+    "posts/2025.06.04 - Some people change, others hang on till they can't anymore.md",
     "posts/2025.06.12 - Post Winter Apology.md",
     "posts/2025.05.20 - The 2025 Microsoft Build Conference.md",
-    "posts/2025.06.04 - Some people change, others hang on till they can't anymore.md",
-    "posts/2025.05.20.png",
     "posts",
-    "posts.json.md",
-    "posts.json",
-    "posts.json - Copy.md",
-    "Files",
-    "desktop.ini",
     "Welcome.md"
   ]
 }
